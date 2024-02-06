@@ -1,1 +1,1 @@
-this is my first README in git
+my name is Freddy
